@@ -52,3 +52,6 @@ footer {
 #rate {
   width: 8em;
 }
+.yellow {
+  background-color: rgb(235, 235, 103);
+}
